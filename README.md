@@ -19,7 +19,7 @@ Built with **LangChain**, **OpenRouter**, **Streamlit**, and **FastAPI**, this a
 
 ## 📸 UI Preview
 
-![App UI Screenshot](screenshot.png) <!-- Add your own screenshot image in the repo -->
+![App UI Screenshot](Screenshot 2025-06-22 204242.png) <!-- Add your own screenshot image in the repo -->
 
 ---
 
