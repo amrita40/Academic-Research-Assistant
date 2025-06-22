@@ -36,4 +36,9 @@ Built with **LangChain**, **OpenRouter**, **Streamlit**, and **FastAPI**, this a
 ---
 
 ## 📂 Project Structure
-
+corp8/
+├── langchain_ui_app.py # Streamlit UI app
+├── fastapi_server.py # FastAPI arXiv API server
+├── .env # API keys
+├── requirements.txt # Dependencies
+└── README.md # You're reading it!
