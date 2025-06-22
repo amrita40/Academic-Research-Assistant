@@ -19,7 +19,7 @@ Built with **LangChain**, **OpenRouter**, **Streamlit**, and **FastAPI**, this a
 
 ## 📸 UI Preview
 
-![App UI Screenshot]() <!-- Add your own screenshot image in the repo -->
+![App UI Screenshot](https://github.com/amrita40/Academic-Research-Assistant/blob/main/Screenshot%202025-06-22%20204242.png?raw=true) <!-- Add your own screenshot image in the repo -->
 
 ---
 
